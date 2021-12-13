@@ -2,7 +2,7 @@
   "name": "gatsby-plugin-static-props",
   "description": "An implementation from 'getStaticProps' based on Next.js to Gatsby via Plugin",
   "author": "Victor Igor <victor.0w3@gmail.com>",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "git@github.com:victorvoid/gatsby-plugin-static-props.git",
   "license": "MIT",
   "keywords": [
@@ -11,7 +11,7 @@
     "plugin",
     "next",
     "next.js",
-    "getStaticProps",
+    "getStaticProps"
   ],
   "dependencies": {
     "@babel/register": "^7.16.0",
