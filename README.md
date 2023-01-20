@@ -7,7 +7,7 @@ An implementation from [getStaticProps](https://nextjs.org/learn/basics/data-fet
 
 ## Install
 
-`$ npm i gatsby-plugin-static-propss`
+`$ npm i gatsby-plugin-static-props`
 
 or
 
